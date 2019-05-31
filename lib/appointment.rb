@@ -12,6 +12,4 @@ class Appointment
     @@all << self
     end
 
-   end
-
-end
+ end
